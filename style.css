@@ -1,5 +1,5 @@
 .topnav {
-    background-color: #000000;
+    background-color: #882020;
     overflow: hidden;
     margin: 0%;
   }
@@ -8,12 +8,12 @@
   .topnav a {
     float: left;
     color: #f2f2f2;
-    background-color: #000000;
+    background-color: #882020;
     text-align: center;
-    padding: 14px 150px;
+    padding: 30px 80px;
     text-decoration: none;
     font-size: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family:cursive
   }
 
 
@@ -46,22 +46,24 @@ h3
 }
 body
 {
-    background-color: #440c0c;
+    background-color: #690f0f;
 }
 
 h1
 {
    color: #ffffff;
-    text-align: left;
+    text-align: center;
     font-size: 65px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 h2
 {
     color: #ffffff;
-    text-align: left;
+    text-align: center;
     font-size: 35px;
 }
+
 
 h5
 {
@@ -76,4 +78,6 @@ hr
     background-color: #000000;
     border: none;
 }
+
+
 
