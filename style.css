@@ -18,8 +18,8 @@
 
 
   .topnav a:hover {
-    background-color: #f6f6f6;
-    color: rgb(42, 8, 8);
+    
+    color: rgb(0, 0, 0);
   }
 
 
@@ -33,7 +33,7 @@ h4
 {
     color: #ffffff;
     text-align: left;
-    font-size: 28px;
+    font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
 }
 
@@ -99,11 +99,7 @@ br
 }
 
 
-a {
-  color: var(--secondary);
-  transition: all .5s;
-  outline: 2px solid transparent;
-}
+
 
 p {
   color:#ffffff;
@@ -116,5 +112,7 @@ p {
   color: white;
   }
   
+  
+
   
   
