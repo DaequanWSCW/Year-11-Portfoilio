@@ -117,3 +117,14 @@ p {
   height: 500px;
 }
   
+  
+  .wordcomment {
+  float: right; 
+  margin-right: 1000px 100px 100px 100px;
+  width: 650px;
+  height: 160px;
+  }
+
+  .wordcomment {
+    border: 5px solid #887979;
+  }
